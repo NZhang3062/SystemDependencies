@@ -16,5 +16,5 @@ remove item1, and those on whch it depends, if possible
 ### 3.4 LIST
 list the names of all currently-installed components
 ## 4. Author
-Nan Zhang
+Nan Zhang，
 Ronglin Liu
